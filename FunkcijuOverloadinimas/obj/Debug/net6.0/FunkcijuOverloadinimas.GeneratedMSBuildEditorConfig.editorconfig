@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FunkcijuOverloadinimas
+build_property.ProjectDir = C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\

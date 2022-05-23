@@ -1,0 +1,15 @@
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\bin\Debug\net6.0\FunkcijuOverloadinimas.exe
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\bin\Debug\net6.0\FunkcijuOverloadinimas.deps.json
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\bin\Debug\net6.0\FunkcijuOverloadinimas.runtimeconfig.json
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\bin\Debug\net6.0\FunkcijuOverloadinimas.dll
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\bin\Debug\net6.0\FunkcijuOverloadinimas.pdb
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\obj\Debug\net6.0\FunkcijuOverloadinimas.csproj.AssemblyReference.cache
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\obj\Debug\net6.0\FunkcijuOverloadinimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\obj\Debug\net6.0\FunkcijuOverloadinimas.AssemblyInfoInputs.cache
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\obj\Debug\net6.0\FunkcijuOverloadinimas.AssemblyInfo.cs
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\obj\Debug\net6.0\FunkcijuOverloadinimas.csproj.CoreCompileInputs.cache
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\obj\Debug\net6.0\FunkcijuOverloadinimas.dll
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\obj\Debug\net6.0\refint\FunkcijuOverloadinimas.dll
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\obj\Debug\net6.0\FunkcijuOverloadinimas.pdb
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\obj\Debug\net6.0\FunkcijuOverloadinimas.genruntimeconfig.cache
+C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\c-sharp\pamoka7-funkciju-overloadinimas\FunkcijuOverloadinimas\FunkcijuOverloadinimas\obj\Debug\net6.0\ref\FunkcijuOverloadinimas.dll
